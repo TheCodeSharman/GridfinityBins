@@ -9,7 +9,7 @@ the top to guide the tip on.
 from build123d import *
 
 # ── Tune these ────────────────────────────────────────────────────────────────
-TIP_INNER_DIAMETER = 21.62   # measured inside diameter of nozzle tip, mm
+TIP_INNER_DIAMETER = 21.12   # measured inside diameter of nozzle tip, mm
 FIT_CLEARANCE      =  0.30   # subtracted from diameter so peg slides into tip, mm
 PEG_HEIGHT         = 12.00   # how tall each peg stands above the bin top, mm
 LEAD_IN            =  1.50   # chamfer size on top of peg to guide insertion, mm
